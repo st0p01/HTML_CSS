@@ -1,0 +1,16 @@
+                                     Listas
+_____________________________________________________________________________
+                              list-style-position
+
+Meche na posição da sua lista se ela está fora da caixa de estilo ou se você
+quer centralizar sua lista por exemplo 
+_____________________________________________________________________________
+                                  list-style
+É usado para mudar o símbolo na frente dos elementos da lista com emojis:
+list-style: '\2714\00A0'; o \ 00A0 é usado para criar um espaço entre o 
+elemento da lista e o emoji 
+_____________________________________________________________________________
+                                   columns
+Caso a lista tenha ficado muito grande e você queira dividi-lá em dois 
+ou mais partes use o COLUMNS: ;
+_____________________________________________________________________________

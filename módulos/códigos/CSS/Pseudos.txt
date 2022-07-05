@@ -1,0 +1,46 @@
+                                   Pseudos
+_____________________________________________________________________________
+                               Pseudo classes
+
+Pseudo classes tem que estar relacionado há um elemento ou uma classe,pseudo
+classes são relacionados ao estado de um determinado elemento.
+
+Exemplo:
+
+div > p {
+         display:none
+      }
+
+div:hover > p {
+         display: block;
+         background-color: rgb(236, 232, 0);
+         width: 200px;
+      }
+
+ div:hover{
+         color: rgb(33, 30, 210);
+      }
+
+O display: none vai fazer o com que o que está escrito  na tag P não apareça
+, o hover serve para que quando  o úsurio passe o mause em sima determinada
+configuração aconteça então o display block vai fazer o display:none ser
+anulado e fazer com que o que está escrito dentro da tag P apareça com
+determinada cor e largura e etc. O > significa que a tag P está dentro da 
+div e vai fazer com que todos os P dentro da div sejam identificados e usem 
+determinada configuração.
+_____________________________________________________________________________
+                             Pseudo elemento
+
+Pseudo elemento serve para customizar um contéudo apresentado na primeira 
+linha de um elemento.
+
+Exemplo:
+
+      .especial::after{
+         content: "⇠";
+      }
+      
+      .especial::before{
+         content: "⇢";
+      }
+_____________________________________________________________________________

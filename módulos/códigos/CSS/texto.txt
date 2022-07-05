@@ -1,0 +1,14 @@
+                                   texto
+_____________________________________________________________________________
+                                 text-align:
+Alinhar um texto e entre as opções tem: justify,cente,right,start,end e etc.
+_____________________________________________________________________________
+                                 text-ident
+Cria um espaço no começo do texto.
+_____________________________________________________________________________
+                                 text-shadow
+Cria uma sombra no no text : text-shadow: 1px 1px black; 
+_____________________________________________________________________________
+                                 line-height
+O espaço entre linhas: line-height: em;
+_____________________________________________________________________________

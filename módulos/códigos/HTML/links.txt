@@ -1,0 +1,24 @@
+                                 Links
+____________________________________________________________________________
+                            Links externos
+Um link que aponta pra outro site <a href="link" target="_blank" rel="
+external">link</a>
+____________________________________________________________________________
+                            Links internos
+Um link interneto é um link que faz uma relação com a outra apágina que 
+está dentro de outro servidor
+<a href="nome da página ou ctrl+espaço" target="_blank" rel="next">
+link</a>
+
+Se uma página esteja dentro de uma pasta e você quer liga-la a uma página
+que está fora da página, use: ../  
+____________________________________________________________________________
+                               Targets
+_blank = um link que direciona para outro site
+_self = para um página diferente do seu próprio site
+____________________________________________________________________________
+                                 Rel
+next = para um próxima página
+prev = para um página anterior
+exertenal = para um link direcionando a outro site
+____________________________________________________________________________

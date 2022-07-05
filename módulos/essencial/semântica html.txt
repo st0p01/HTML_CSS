@@ -1,0 +1,7 @@
+                            Semântica HTML
+_____________________________________________________________________________
+O HTML se focava em formas, só que agora usamos semânticas que tenham um
+significado , e com isso várias tags pararam de funcionar como a tag 
+<center> então para se ver quais tags vão ser desatualizadas acesse o site
+da w3c https://dev.w3.org/html5/pf-summary/obsolete.html
+_____________________________________________________________________________

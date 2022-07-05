@@ -1,0 +1,19 @@
+                        Diferença entre HTML CSS & JS
+_____________________________________________________________________________
+H YPER
+T EXT
+M ARKUP
+L ANGUAGE
+   
+Linguagem focada em conteúdo; textos imagens videos tabelas
+
+C ASCADING
+S TYLE
+S HEETS
+
+Linguagem focada em design; cores sombras tamanhos posicionamento
+
+JavaScript
+
+linguagem focada em interações; menus animações popups
+_____________________________________________________________________________

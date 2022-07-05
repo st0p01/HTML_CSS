@@ -1,0 +1,10 @@
+                              Váriaveis em CSS
+_____________________________________________________________________________
+
+:root{} = é uma pseudo do classe que serve pro documento inteiro então é 
+possivel criar váriaveis aqui dentro, e para criar váriaveis você coloca "--"
+junto com o nome da váriavel e :;. Com cores por exemplo é mais prático pois
+você encontra as váriveis no final  do "ctrl + space "e não precisa ficar
+copiando e colando os códigos das cores!
+
+_____________________________________________________________________________

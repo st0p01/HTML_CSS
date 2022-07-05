@@ -1,0 +1,13 @@
+                                  imagens
+_____________________________________________________________________________
+O elemento <img> é utilizado para inserir imagens em uma página HTML.
+
+<source media="(min-width: px)" srcset=""> para carregar uma imagem dentro do
+seu pc ou da net sendo em url ou sub-pastas
+_____________________________________________________________________________
+                                  <picture>
+
+Permite carregar diferentes arquivos de imagem através de: Media Queries, 
+para diferentes resoluções e orientações de tela. Densidade de pixels, para 
+diferentes tipos de dispositivos.
+______________________________________________________________________________

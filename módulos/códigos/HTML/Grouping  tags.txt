@@ -1,0 +1,10 @@
+                                Grouping tags
+_____________________________________________________________________________
+<header> = cabeçalho
+<nav> = links parade baixo do  cabeçalho
+<main> = contéudo principal
+<article> = todo o texto do site
+<aside> = contéudo secundario
+<footer> = rodapé
+
+_____________________________________________________________________________

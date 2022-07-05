@@ -1,0 +1,70 @@
+                               Tipos de Caixa
+_____________________________________________________________________________
+      
+    box-level            inline-level             
+ _______________        _______________ 
+|               |      |               |
+|<div>          |      |<span>         |
+|<h1>-<h6>      |      |<a>            | 
+|<p>            |      |<code>         |
+|<main>         |      |<small>        |
+|<header>       |      |<strong>       |
+|<nav>          |      |<em>           |
+|<article>      |      |<sup>-<sub>    |
+|<aside>        |      |<label>        |
+|<footer>       |      |<button>       |
+|<form>         |      |<input>        |
+|<video>        |      |<select>       |
+|_______________|      |_______________|
+
+
+
+       box-level                   inline-level
+ _____________________         _____________________  
+|  _ _ _ _ _ _ _ _ _  |       |  _ _ _ _ _ _ _ _ _  |
+|  _ _ _ _ _ _ _ _ _  |       |  _ _ _ _ _ _ _ _ _  |
+|  _ _ _ _ _ _ _ _ _  |       |  _ _ _ _ _ _ _ _ _  |
+|  _ _ _ _ _ _ _ _ _  |       |  _ _ _ _ _ _ _ _ _  |
+|  _ _                |       |  _ _ _       _ _ _  |
+|                     |       |  _ _ _ _ _ _ _ _ _  |
+|                     |       |  _ _ _ _ _ _ _ _ _  |
+|  _ _ _ _ _ _ _ _ _  |       |                     |
+|  _ _ _ _ _ _ _ _ _  |       |                     |
+|  _ _ _ _ _ _ _ _ _  |       |                     |
+|_____________________|       |_____________________|
+_____________________________________________________________________________
+                                 Caixa
+
+height = altura
+width = largura
+border = borda
+padding = preenchimento
+margin = margem
+outline = contorno
+_____________________________________________________________________________
+                           Códigos de Caixa
+height: px;
+width: px;
+border,padding,margin,outline: px px px px;
+
+box-shadow: 1px 1px 1px black; = cria uma sombra na caixa
+
+border-radius: 10px; = arredonda as bordas da caixa
+
+border: 10px solid black; = serve criar um contorno ao redor do conteúdo
+
+border-image; url('') 27 space: serve para criar uma borda de imagem o
+url serve para imagem o 27 pra configuração de quantos elemento vão ter 
+nos lados e o space para configurarções especificas, e para funcionar tem
+que ter uma borda normal.
+
+transition-duration: s; = faz com que quando passe o mause por sima a 
+animação dure o tempo configurado de transição
+             
+                              IMPORTANTE
+max-width: 800px; = largura maxima que vai ocupar 
+min-width: 320px; = menor largura que vai ocupar
+
+Esses dois são utilizados para tornar um conteúdo responsivo e o site não
+ficar estranho!!
+_____________________________________________________________________________

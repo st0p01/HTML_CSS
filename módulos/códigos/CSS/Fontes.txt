@@ -1,0 +1,59 @@
+                                   Fontes
+_____________________________________________________________________________
+                                  font-size
+serve para mudar o tamanho da fonte em px.
+
+Nós temos a medidas absolutas;
+
+cm(centimetro)
+mm(melimetro)
+in(polegada)
+px(pixel)
+pt(ponto)
+pc(paica)
+
+E as medidas relativas;
+
+em(tamanho atual da fonte) = M
+ex(altura x) = X
+rem(fonte que está configurada no BODY)
+vw(largura da viewport)(viewport = tamanho da tela)
+vh(altura da viewport)
+%(porcentagem)
+_____________________________________________________________________________
+                                  Font-family
+serve para mudar a tipo grafia do texto, é recomendavel que use :Arial,Helve-
+tica,sans-serif como padrão mas você pode de acordo com oque você quer repre-
+sentar
+_____________________________________________________________________________
+                                  font-weight
+Serve para definir o peso da fonte e esses pesos de dividem em ; lighter
+(fino), normal(grossura normal), bold(negrito), bolder
+(extra-negrito).
+_____________________________________________________________________________
+                                    font:
+Font: é um shorthand de font do font-family,font-weight,font-style e font-
+size , a ordem certa de se usar é :font-style,font-weight,font-size e 
+font-family . Ficaria assim:
+
+Font:italic lighter 16px 'Work Sans'
+_____________________________________________________________________________
+                                Fonte externa
+Para usar uma fonte externa abra o site da onde está a fonte que você quer 
+usar e baixe , com o arquivo da fonte baixado coloque dentro da pasta da onde
+está o seu site.Com o arquivo dentro da pasta abra o código do seu site e
+no começo do <style> use:
+
+@font face{
+font-family: '';
+src: url('nome do aquivo junto como o .ttf ou .otf')import('')
+font-weight: normal;
+}
+as variações de "import" são
+
+- opentype (otf)
+- truetype (ttf)
+- embedded-opentype
+- truetype-aat (Apple Advanced Typography)
+- svg
+_____________________________________________________________________________

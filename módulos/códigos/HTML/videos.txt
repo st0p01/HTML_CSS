@@ -1,0 +1,26 @@
+                              Videos Hospedados
+_____________________________________________________________________________
+Para hospedar um vídeo do seu servidor no seu site é muito facil.
+Primeiro colocamos a tag (<video>) e apagamos o "src"
+
+Dentro do (<video>) colocamos a tag "source src" dentro do "src" colocamos o
+vídeo  e colocamos diferentes formatos de vídeo entre eles:
+
+m4v
+mp4
+webm
+ogg
+
+{Para ajustar o tamanho do vídeo colocamos (width="") para fazer as opções do
+vídeo aparecer use constrols e para colocar o vídeo em loop use "loop"
+
+E por ultímo para colocar uma thumb use a tag (poster="")}
+                                  |
+                                  |
+                      Obs:tudo da lado de <video>
+_____________________________________________________________________________
+                           Inserindo videos
+Para inserir um vídeo basta apenas entrar no site da onde o seu video está
+entrar no vídeo,compartilhar depois clique em incorporar e jogue o código
+de incorporação no seu editor de código
+_____________________________________________________________________________

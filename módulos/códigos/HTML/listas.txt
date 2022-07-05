@@ -1,0 +1,23 @@
+                                  Listas
+_____________________________________________________________________________
+                                  <ol>
+A tag OL serve para criar uma lista ordenada ou seja com números ,números 
+romanos ou alfabeto
+<ol type='1'>
+ <li>Acordar</li>
+ <li>Ir pro trabalho</li>
+ <li>Dormir</li>
+</ol>
+_____________________________________________________________________________
+                                  <li>
+serve para colocar os itens na lista
+
+_____________________________________________________________________________
+                                  <ul>
+A tag ul serve para criar uma lista não ordenada ou seja sem números ou 
+números romanos ou alfabeto sendo disc circle square
+_____________________________________________________________________________
+                            lista de definição
+dt = termo
+dd = definição
+_____________________________________________________________________________

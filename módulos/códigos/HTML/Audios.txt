@@ -1,0 +1,22 @@
+                                     Audios
+_____________________________________________________________________________
+Para colocar audio em um site é muito simples primeiro você coloca a tag
+<audio></audio>
+e depois coloca o "source src"
+_____________________________________________________________________________
+                                    source
+O source que vamos usar é assim:<source src="" type="">
+no src você seleciona o audio que você vai colocar e no type o tipo do audio
+que são: audio/mp3 audio/ogg audio/wmv.
+_____________________________________________________________________________
+                                   preload
+Dentro da tag <audio> digite preload e coloque metadata, metadata vai carre-
+gar só o nome dos arquivos e algumas outras coisas como duração velocidade
+etc.
+_____________________________________________________________________________
+                                   controls
+Para que o audio aparece coloque controls do lado da tag <audio>
+_____________________________________________________________________________
+                                    loop
+Vai fazer o audio reproduzir depois dele acabar
+_____________________________________________________________________________

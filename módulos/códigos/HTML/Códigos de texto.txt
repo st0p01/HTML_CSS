@@ -1,0 +1,71 @@
+                                 texto
+______________________________________________________________________________
+A h1 é uma tag HTML que indica um título em um site.tambem podem ser usados 
+h2 h3 h4 h5 e h6
+
+<h1> </h1>
+<h2> </h2>
+<h3> </h3>
+______________________________________________________________________________
+                                  <P>
+
+O elemento HTML <p> representa um parágrafo.
+
+<p> </p>
+______________________________________________________________________________
+                                  <br>
+a tag <br> serve para quebrar um paragrafo
+______________________________________________________________________________
+                                  <hr>
+hr serve para criar linhas horizontaiz como essa de sima
+______________________________________________________________________________
+                                    &
+
+Você pode usar &lt para fazer o sinal < e &gt para fazer o sinal de >
+
+Simbolos especiais:
+&reg; ®
+&copy; © 
+&trade; ™
+&euro; € 
+&pound; £
+&yen; ¥
+&cent; ¢
+&delta; δ
+&uarr;  ↑
+&#x;(emoji)
+______________________________________________________________________________
+                           Negrito e Itálico
+A tag <strong> no HTML serve para colocar um termo em destaque
+
+A tag <em> no html coloca um termo em Itálico/Ênfase
+_____________________________________________________________________________
+                                <mark>
+A tag <mark> para criar o mesmo efeito de um marca texto
+_____________________________________________________________________________
+                                <small>
+tag para colocar um texto pequeno
+_____________________________________________________________________________
+                                 <del>
+tag para criar um risco na palavra
+_____________________________________________________________________________  
+                                 <ins>
+tag para marca um texo como inserido para dar um ênfase (sublinhado)
+_____________________________________________________________________________
+                                 <pre>
+tag muito usada para identificar códigos escritos em um site
+_____________________________________________________________________________
+                                  <q>
+a tag q criar aspas com um sentido
+_____________________________________________________________________________
+                                 <code>
+A tag code deicha uma frase monoespaçada (muito boa pra ler códigos)
+_____________________________________________________________________________
+                                 <abbr>
+A tag abbr é usada como abreviação para quando  o usuario passar o mause em
+cima aparecer uma "descrição"
+_____________________________________________________________________________
+                                 <span>
+Tag usada para pegar uma palavra especifica, criar ou usar um class para 
+configurar ou usar de destaque com qualquer cor tamanho e expressura
+_____________________________________________________________________________

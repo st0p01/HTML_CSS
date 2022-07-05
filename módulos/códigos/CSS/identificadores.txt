@@ -1,0 +1,45 @@
+                               Identificadores
+_____________________________________________________________________________
+                                    ID
+O id="" serve para fazer uma configuração em determinada tag mas só pode ser
+usada uma vez e pode ser configurada na CSS.Exemplo:
+
+                                  EM HTML
+
+<p id="texto">Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+eleniti natus blanditiis sunt? Error, dolores? Nobis temporibus suscipit 
+error inventore reprehenderit laudantium repudiandae, impedit nisi, saepe 
+tempore alias rem mollitia repellendus.</p>
+                
+                                  EM CSS
+#texto{
+      color: black;
+}
+
+em HTML é id = em CSS é # (só pode um elemento)
+_____________________________________________________________________________
+                                  CLASSES
+
+O class="" tem a mesma função do id só que pode que quando eu quero usar
+a mesma configuração em dois elementos ou mais  eu uso classes.Exemplo:
+
+                                  EM HTML
+
+<p class="texto">Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+eleniti natus blanditiis sunt? Error, dolores? Nobis temporibus suscipit 
+error inventore reprehenderit laudantium repudiandae, impedit nisi, saepe 
+tempore alias rem mollitia repellendus.</p>
+
+<p class"texto">Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+eleniti natus blanditiis sunt? Error, dolores? Nobis temporibus suscipit 
+error inventore reprehenderit laudantium repudiandae, impedit nisi, saepe 
+tempore alias rem mollitia repellendus.</p>
+
+
+                                  EM CSS
+.texto{
+      color: black;
+}
+
+em HTML é class = em CSS é .(pode vários elementos)
+_____________________________________________________________________________

@@ -1,0 +1,19 @@
+                                    degrade
+_____________________________________________________________________________
+para criar um degrade crie um body{} e dentro use a tag background-image:
+linear-gradient(to), para as direções use (top, right) junto com as cores que
+você quiser,quando você usar o (top) em sima crie um style
+
+body{
+   background-image: linear-gradient(to top, #02735E, #025951);
+   background-attachment: fixed;}
+
+o background-attachment: fixed serve para não deixar bugado
+____________________________________________________________________________
+                                 Background-color
+serve para mudar: a cor de um texto,o fundo de um site ou até mesmo a cor de
+uma marcação
+_____________________________________________________________________________
+                                    color
+serve para mudar a cor do texto
+_____________________________________________________________________________

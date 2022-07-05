@@ -1,0 +1,20 @@
+                            Domínio e hospedagem
+_____________________________________________________________________________
+Domínio : Nome que identifica seu site > nome único > pago anualmente > 
+Vários TDLs
+
+Hospedagem:Local onde o seu site vai estar amarzenado > Pago mensalmente >
+Espaço, memória, recursos
+_____________________________________________________________________________
+                              O que é uma URL
+
+www.youtube.com > isso é uma url 
+
+youtube.com > isso é um domínio
+
+.com , .tv , .br > isso é TDL
+
+www > isso é um sub-domínio 
+
+/watch =  isso é um caminho
+_____________________________________________________________________________
