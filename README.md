@@ -6,5 +6,5 @@ por trazer um conteúdo tão bom e informativo.
 
 
 Meu repositório tem todos os códigos que foram passado
-no curso até a onde eu assisti para didática use bem
+no curso até a onde eu assisti, para didática use bem
 😊.
