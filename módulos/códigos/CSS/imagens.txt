@@ -1,0 +1,37 @@
+                                  Imagens
+_____________________________________________________________________________
+                               Background-image
+Carrega uma imagem que ocupa todo espaço da onde foi colocada mais sem 
+sentido semântico.Background-image: url('img/'); essa tag pode ser usada 
+de várias maneiras não só para carregar imagens mais também para fazer 
+degrade e etc.
+
+_____________________________________________________________________________
+                              Background-size
+O background-size:; configura qual o tamanho da imagem que vai estar de fundo
+que foi configurada no background-image: px px;.
+_____________________________________________________________________________
+                              Background-repeat
+
+O background-size: ; não vai adianar de nada sem o background-repeat por que
+a imagem vai continuar feia, então o background-repeat vai te dar a escolha
+de quantas vezes você queira que a imagem repita dependendo claro do tamanho
+da imagem e então você coloca: background-repeat: no-repeat; o no-repeat vai
+fazer com que a imagem não repita nenhuma vez mas você pode fazer com que a
+imagem repita no eixo x no y e etc.
+ 
+_____________________________________________________________________________
+                              Background-position
+
+Background-position:; configura a onde vai estar posicionada a sua imagem
+e tem as seguintes variações:
+
+"left top"(canto superior esquerdo),
+"left bottom" (canto inferior esquerdo)
+"right top"(canto superior direito)
+"right bottom" (canto infeiror direito)
+"center"(o meio da imagem)
+
+Mas tem um erro que acontece no body que quando colocamos center a imagem
+fica lá em sima e para corrigir isso é só colocar height: 98hv;
+_____________________________________________________________________________
