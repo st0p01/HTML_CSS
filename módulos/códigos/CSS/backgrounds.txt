@@ -9,7 +9,19 @@ degrade e etc.
 _____________________________________________________________________________
                               Background-size
 O background-size:; configura qual o tamanho da imagem que vai estar de fundo
-que foi configurada no background-image: px px;.
+que foi configurada no background-image: px px; também tem outras duas tags
+que configura o tamanho da imagem que são:
+
+                                  Contain
+
+O contain vai fazer com que a imagem seja 100% exibida sem cortes e sem 
+redimensionar a imagem.
+
+                                   Cover
+O cover vai fazer com que a imagem que a imagem cubra a tela inteira mesmo
+fassa cortes.
+
+
 _____________________________________________________________________________
                               Background-repeat
 
@@ -34,4 +46,23 @@ e tem as seguintes variações:
 
 Mas tem um erro que acontece no body que quando colocamos center a imagem
 fica lá em sima e para corrigir isso é só colocar height: 98hv;
+_____________________________________________________________________________
+                            background-attachment
+
+determina se aquela posição da imagem é fixa com o viewport, ou se irá rolar 
+juntamente com o seu bloco.
+_____________________________________________________________________________
+                                Shorthand
+
+Bom para dar uma facilitada na nossa vida temos o shorthand para esse monte
+de background a ordem é: color  > image > position > reapeat > [size] >
+attachment. 
+
+O código ficaria mais ou menos assim:
+
+height: 100vh; (para não bugar a imagem)
+background: black url('') center no-repeat cover fixed;
+
+Caso a imagem de fundo não aparece tire o cover ou o size que está
+configurado na shorthand e coloque em sima: Background-size: cover;
 _____________________________________________________________________________
