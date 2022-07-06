@@ -1,4 +1,4 @@
-                               Tipos de Caixa
+                                Tipos de Caixa
 _____________________________________________________________________________
       
     box-level            inline-level             
@@ -33,7 +33,7 @@ _____________________________________________________________________________
 |  _ _ _ _ _ _ _ _ _  |       |                     |
 |_____________________|       |_____________________|
 _____________________________________________________________________________
-                                 Caixa
+                                  Caixa
 
 height = altura
 width = largura
@@ -42,8 +42,8 @@ padding = preenchimento
 margin = margem
 outline = contorno
 _____________________________________________________________________________
-                           Códigos de Caixa
-height: px;
+                             Códigos de Caixa
+height: px; 
 width: px;
 border,padding,margin,outline: px px px px;
 
@@ -61,10 +61,31 @@ que ter uma borda normal.
 transition-duration: s; = faz com que quando passe o mause por sima a 
 animação dure o tempo configurado de transição
              
-                              IMPORTANTE
+                                IMPORTANTE
 max-width: 800px; = largura maxima que vai ocupar 
 min-width: 320px; = menor largura que vai ocupar
 
 Esses dois são utilizados para tornar um conteúdo responsivo e o site não
 ficar estranho!!
+
+_____________________________________________________________________________
+                      Centralização vertical de caixas
+
+Podemos centralizar um caixa com margin: auto; mais ela se limita um pouco
+pois não tem como mecher para ela ficar um pouco em sima e um pouco em baixo
+então uma outra forma de centralizar ou mecher na posição da caixa é 
+configurando com essas tags:
+
+
+position: absolute; = posicionamento "absoluto"
+com essa tag você pode configurar outras duas tags : top e left (cima e
+direita)
+
+transform: translate( px, px); = transfom é você mecher em qualquer caixa 
+aplicando uma alteração de transformação
+
+A centralização está no exercício 22 mas o funcionamento del só acontece 
+porque  a configuração de cima está em posicionamento relativo 
+(position: relative;) e a de baixo está em absoluta, junto com que o 
+"top right" está em 50% relativo e o "transform" está em -50% negativo.
 _____________________________________________________________________________
