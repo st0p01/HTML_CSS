@@ -1,0 +1,31 @@
+                                   TABELAS
+_____________________________________________________________________________
+                                  Hierarquia
+table = tabela = <table>
+table row  = linha de tabela = <tr>
+table header = cabeçalho de tabela 
+table data = dado de tabela <td>
+_____________________________________________________________________________
+                            Como fazer uma tabela
+
+Para criar uma tabela começe usando a tag <table>, dentro da tag table 
+começamos a criar a tabela a partir da hierarquia ali em cima e o
+posicionamento das tags fica assim:
+
+   <table>
+      <tr>
+         <td>
+
+         </td>
+      </tr>
+   </table>
+
+O table row fica dentro da tabela e o table data fica dentro de um table row
+, e apartir do table data colocamos os elementos da linha separando cada
+elemento dentro de um <td>.Para que os elementos ficam um de baixo do outro
+basta criar outro <tr> e colocar os elementos dentro de <td>.
+
+Bom hipotéticamente você fez o código mas só que não parece realmente uma
+tabela, para que pareça mais uma tabela tem que ser feitas configurações
+em CSS com o que você aprendeu (border, padding, witdh etc). 
+_____________________________________________________________________________
