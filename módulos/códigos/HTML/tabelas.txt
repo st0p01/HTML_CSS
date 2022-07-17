@@ -1,6 +1,11 @@
                                    TABELAS
 _____________________________________________________________________________
                                   Hierarquia
+CAPTION = titulo da tabela
+THEADER = cabeçalho da tabela
+TBODY = corpo da tabela
+TFOOT = rodapé da tabela
+
 table = tabela = <table>
 table row  = linha de tabela = <tr>
 table header = cabeçalho de tabela 
@@ -28,4 +33,4 @@ basta criar outro <tr> e colocar os elementos dentro de <td>.
 Bom hipotéticamente você fez o código mas só que não parece realmente uma
 tabela, para que pareça mais uma tabela tem que ser feitas configurações
 em CSS com o que você aprendeu (border, padding, witdh etc). 
-_____________________________________________________________________________
+_____________________________________________________________________________                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
