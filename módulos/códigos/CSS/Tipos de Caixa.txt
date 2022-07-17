@@ -58,6 +58,9 @@ url serve para imagem o 27 pra configuração de quantos elemento vão ter
 nos lados e o space para configurarções especificas, e para funcionar tem
 que ter uma borda normal.
 
+border-colapse; : =é usada para definir as bordas da célula presente dentro
+ da tabela e diz se essas células compartilharão uma borda comum ou não.
+
 transition-duration: s; = faz com que quando passe o mause por sima a 
 animação dure o tempo configurado de transição
              

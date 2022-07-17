@@ -1,7 +1,12 @@
                                    texto
 _____________________________________________________________________________
-                                 text-align:
-Alinhar um texto e entre as opções tem: justify,cente,right,start,end e etc.
+                                 text-align
+Alinhar um texto e entre as opções tem: justify,center,right,start,end e etc.
+_____________________________________________________________________________
+                                vertical-align
+O vertical-align tem a mesma uma função parecida com o do text-align, 
+diferente do text-align tem como deixar o text em cima, em baixo e
+especificar onde onde o texto vai estar.
 _____________________________________________________________________________
                                  text-ident
 Cria um espaço no começo do texto.
